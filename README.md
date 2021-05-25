@@ -1,1 +1,1 @@
-# Computer Engineering Lesson Projects
+# Computer Engineering Lessons
