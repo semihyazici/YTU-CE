@@ -1,0 +1,9 @@
+BLM1010 Yapisal_Programlama 5 100 9001
+BLM1020 Sayisal_Analiz 3 100 9002
+BLM1030 Bilgisayar_Bilimlerine_Giris 5 120 9003
+BLM1040 Alt_Seviye_Programlama 3 100 9004
+BLM1050 Lojik_Devreler 5 100 9007
+BLM1060 Devre_Teorisi 5 100 9002
+BLM1070 Algoritma_Analizi 5 110 9005
+BLM1080 Ayrik_Matematik 3 100 9006
+BLM1095 Yapay_Sinir_Aglari 5 120 9010
